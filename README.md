@@ -24,7 +24,7 @@ output back to a consistent, balanced volume.
 
 | Before | After |
 |---|---|
-| ![before](before.jpg) | ![after](after.jpg) |
+| ![before](picture/before.jpg) | ![after](picture/after.jpg) |
 
 ## Overview
 
