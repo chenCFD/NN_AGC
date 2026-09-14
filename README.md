@@ -88,15 +88,18 @@ make
 
 ## Contributions
 
-1. Builds on the framework from
+1. Builds on the AGC framework from
    [CARNIVAL-IITP/Automatic_gain_control](https://github.com/CARNIVAL-IITP/Automatic_gain_control),
    with modified data processing and data augmentation for higher-quality training data.
-2. Converts the original Python inference pipeline into a C inference implementation
+2. Builds on the C inference framework from
+   [xiph/rnnoise](https://github.com/xiph/rnnoise).
+3. Converts the original Python inference pipeline into a C inference implementation
    suitable for real-time / embedded use.
 
 ## Acknowledgements / References
 
 - [CARNIVAL-IITP/Automatic_gain_control](https://github.com/CARNIVAL-IITP/Automatic_gain_control)
+- [xiph/rnnoise](https://github.com/xiph/rnnoise)
 
 ## License
 
